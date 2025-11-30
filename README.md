@@ -88,6 +88,16 @@ The APK will be located at `build/app/outputs/flutter-apk/app-release.apk`.
 - **Error Handling**: Basic snackbars are used. Future: Implement more granular error dialogs and retry mechanisms.
 - **Offline Mode**: Currently requires internet. Future: Implement local caching with Hive or SQLite.
 
+## Screenshots
+
+<div align="center">
+  <img src="screenshots/login.png" width="200" alt="Login Screen" />
+  <img src="screenshots/otp.png" width="200" alt="OTP Screen" />
+  <img src="screenshots/list.png" width="200" alt="List Screen" />
+  <img src="screenshots/detail.png" width="200" alt="Detail Screen" />
+  <img src="screenshots/edit.png" width="200" alt="Edit Screen" />
+</div>
+
 ## Walkthrough Checklist
 - [ ] Login with Test Phone Number (+916301123051 / 123456).
 - [ ] Verify OTP and navigate to Home.
