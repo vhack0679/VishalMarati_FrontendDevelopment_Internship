@@ -95,6 +95,7 @@ The APK will be located at `build/app/outputs/flutter-apk/app-release.apk`.
   <img src="screenshots/otp.png" width="200" alt="OTP Screen" />
   <img src="screenshots/list.png" width="200" alt="List Screen" />
   <img src="screenshots/detail.png" width="200" alt="Detail Screen" />
+  <img src="screenshots/create.png" width="200" alt="Create Screen" />
   <img src="screenshots/edit.png" width="200" alt="Edit Screen" />
 </div>
 
