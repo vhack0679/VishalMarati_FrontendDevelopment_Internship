@@ -1,0 +1,35 @@
+name: flutter_getx_app
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # State Management & Navigation
+  get: ^4.6.6
+  
+  # Networking
+  http: ^1.2.0
+  
+  # Firebase
+  firebase_core: ^3.0.0
+  firebase_auth: ^5.0.0
+  
+  # UI/UX
+  google_fonts: ^6.1.0
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  mockito: ^5.4.4
+  build_runner: ^2.4.8
+
+flutter:
+  uses-material-design: true
